@@ -9,6 +9,8 @@ gh-repo: daattali/beautiful-jekyll
 author: Sebastian Salas
 ---
 
+[![Watch the video](https://img.youtube.com/vi/X3mLlC3mrdk/default.jpg)](https://www.youtube.com/watch?v=X3mLlC3mrdk)
+
 **Lost in Space** is about searching for hope even in the most dire situation.
 
 **Synopsis:**
@@ -23,8 +25,7 @@ This project was made for the class Game Design and Analysis using the MDA Frame
 **My Role:** Lead Programmer
 
 ![LostInSpace](https://github.com/sebastiansalas94/sebastiansalas94.github.io/blob/master/assets/img/LostInSpace_Images/LostInSpace_8.png)
-![LostInSpace](https://github.com/sebastiansalas94/sebastiansalas94.github.io/blob/master/assets/img/LostInSpace_Images/LostInSpace_5.png)\
-![LostInSpace](https://github.com/sebastiansalas94/sebastiansalas94.github.io/blob/master/assets/img/LostInSpace_Images/LostInSpace_2.png)
+![LostInSpace](https://github.com/sebastiansalas94/sebastiansalas94.github.io/blob/master/assets/img/LostInSpace_Images/LostInSpace_5.png)
 ![LostInSpace](https://github.com/sebastiansalas94/sebastiansalas94.github.io/blob/master/assets/img/LostInSpace_Images/LostInSpace_7.png)
 
 
