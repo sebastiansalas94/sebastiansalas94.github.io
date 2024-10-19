@@ -16,15 +16,13 @@ The novice astronaut, Elias, has just regained consciousness floating across an 
 
 This project was made for the class Game Design and Analysis using the MDA Framework.
 
-**Genre:** Adventure
-
-**Software:** Unity
-
-**Project Type:** Group Project
-
-**Development Time:** 2 Week
-
+**Genre:** Adventure\
+**Software:** Unity\
+**Project Type:** Group Project\
+**Development Time:** 2 Week\
 **My Role:** Lead Programmer
+
+![LostInSpace](/assets/img/LostInSpace_Images/LostInSpace_8)
 
 **My Responsabilities:**
 * Designed and Implemented the User Interface (UI) for the interaction and dialogues.
