@@ -1,15 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Technical Game Designer and Game Developer
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Sebastian Salas and I’m Technical Game Designer and Game Developer pursuing a Master's in Game Science and Design with a Bachelor's in Software Engineering. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I have technical abilities in Unity (C#), Unreal Engine (C++) and Blueprints.
 
-What else do you need?
 
 ### My story
 
