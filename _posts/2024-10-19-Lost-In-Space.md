@@ -3,8 +3,6 @@ layout: post
 title: Lost in Space
 subtitle: There's lots to learn!
 gh-repo: daattali/beautiful-jekyll
-comments: true
-mathjax: true
 author: Sebastian Salas
 ---
 
@@ -16,13 +14,17 @@ The novice astronaut, Elias, has just regained consciousness floating across an 
 This project was made for the class Game Design and Analysis using the MDA Framework.
 
 **Genre:** Adventure
+
 **Software:** Unity
+
 **Project Type:** Group Project
+
 **Development Time:** 2 Week
 
 **My Role:** Lead Programmer
+
 **My Responsabilities:**
-> * Designed and Implemented the User Interface (UI) for the interaction and dialogues.
-> * Sync all Audio Cues to create an immersirve experience.
-> * Refined and debugged the look and feel of the game to enhance the player's experience.
+* Designed and Implemented the User Interface (UI) for the interaction and dialogues.
+* Sync all Audio Cues to create an immersirve and narrative experience.
+* Refined and debugged the look and feel of the game to enhance the player's experience.
 
