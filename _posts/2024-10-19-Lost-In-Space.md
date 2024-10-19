@@ -22,7 +22,11 @@ This project was made for the class Game Design and Analysis using the MDA Frame
 **Development Time:** 2 Week\
 **My Role:** Lead Programmer
 
-![LostInSpace](/assets/img/LostInSpace_Images/LostInSpace_8)
+![LostInSpace](https://github.com/sebastiansalas94/sebastiansalas94.github.io/blob/master/assets/img/LostInSpace_Images/LostInSpace_8.png)
+![LostInSpace](https://github.com/sebastiansalas94/sebastiansalas94.github.io/blob/master/assets/img/LostInSpace_Images/LostInSpace_5.png)\
+![LostInSpace](https://github.com/sebastiansalas94/sebastiansalas94.github.io/blob/master/assets/img/LostInSpace_Images/LostInSpace_2.png)
+![LostInSpace](https://github.com/sebastiansalas94/sebastiansalas94.github.io/blob/master/assets/img/LostInSpace_Images/LostInSpace_7.png)
+
 
 **My Responsabilities:**
 * Designed and Implemented the User Interface (UI) for the interaction and dialogues.
