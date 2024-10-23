@@ -17,7 +17,7 @@ author: Sebastian Salas
 **Synopsis:**
 The novice astronaut, Elias, has just regained consciousness floating across an asteroid belts. With few tools at hand, he must manage to survive and find his spaceship.
 
-This project was made for the class Game Design and Analysis using the MDA Framework.
+This project was made for the class *Game Design and Analysis* using the MDA Framework.
 
 **Genre:** Adventure\
 **Software:** Unity\
