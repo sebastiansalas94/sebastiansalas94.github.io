@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: blog
 title: Blog
 subtitle: Technical Game Designer and Game Developer
 ---
