@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: page
 title: Portfolio
 subtitle: Technical Game Designer and Game Developer
 ---
