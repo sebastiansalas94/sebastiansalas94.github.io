@@ -56,20 +56,21 @@ social-network-links:
   email: "salasmovilla.s@northeastern.edu"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  itchio: https://sebastiansalas94.itch.io/
+  linkedin: https://www.linkedin.com/in/sebastian-salas-movilla/
+  github: https://github.com/sebastiansalas94/
+  #twitter: daattali
+  #patreon: DeanAttali
+  #youtube: "@daattali"
+  #whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+   telephone: +16172167611
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -83,7 +84,6 @@ social-network-links:
 #  kaggle: yourname
 #  hackerrank: yourname
 #  gitlab: yourname
-#  itchio: yourname
 #  untappd: yourname
 
 # If you want your website to generate an RSS feed, provide a description
