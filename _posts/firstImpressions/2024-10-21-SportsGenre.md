@@ -2,6 +2,7 @@
 layout: default
 title: First Impressions
 subtitle: Sports Game
+categories: blog
 ---
 
 This week I played *Fishing Planet*, and while I do not play that many sports games, I think it was the designed experience of a fishing game. I was impressed that this game had 9/10 with 60,074 reviews in Steam. I have always liked fishing as a mechanic when playing other type of games (from doing it in *Pokemon* games to get water pokemons, using it in *The Legend of Zelda: Ocarina of Time* in a fishing minigame to get rewards, and *Stardew Valley* fishing minigame as one of my favorites how it was executed) and how they implement this type of mechanic and what it contributes to the experience as a whole, but it was always as the means to an end, not for the activity itself.
