@@ -22,10 +22,10 @@ This project was made for the class Game Design and Analysis using the MDA Frame
 **Software:** Unity\
 **Project Type:** Group Project\
 **Development Time:** 2 Week\
-**My Role:** Lead Programmer\
+**My Role:** Lead Programmer
 
-<img src="/assets/img/LostInSpace_Images/LostInSpace_8.png" width="600" />
-<img src="/assets/img/LostInSpace_Images/LostInSpace_5.png" width="500" />
+<img src="/assets/img/LostInSpace_Images/LostInSpace_8.png" width="400" />
+<img src="/assets/img/LostInSpace_Images/LostInSpace_5.png" width="400" />
 <img src="/assets/img/LostInSpace_Images/LostInSpace_7.png" width="400" />
 
 **My Responsabilities:**
