@@ -1124,94 +1124,92 @@ pre {
   }
 }
 
+.row {
+	display: flex;
+	flex-wrap: wrap;
+	box-sizing: border-box;
+	align-items: stretch;
+	margin-right: -25px;
+	margin-left: -25px;
+}
+
+.row > .col-4 {
+	width: 33.33333%;
+}
 
 
-	.row {
-		display: flex;
-		flex-wrap: wrap;
+.row > .col-6 {
+	width: 50%;
+}	
+
+
+@media screen and (max-width: 980px) {
+
+.row {
+	display: flex;
+	flex-wrap: wrap;
+	box-sizing: border-box;
+	align-items: stretch;
+}
+
+	.row > * {
 		box-sizing: border-box;
-		align-items: stretch;
 	}
 
-	.row > .col-4 {
-		width: 33.33333%;
-	}
-	
-
-	.row > .col-6 {
+	.row > .col-6-medium {
 		width: 50%;
-	}	
+	}
 	
-	
-	@media screen and (max-width: 980px) {
+}
 
-	.row {
-		display: flex;
-		flex-wrap: wrap;
+@media screen and (max-width: 736px) {
+
+.row {
+	display: flex;
+	flex-wrap: wrap;
+	box-sizing: border-box;
+	align-items: stretch;
+}
+
+	.row > * {
 		box-sizing: border-box;
-		align-items: stretch;
 	}
 
-		.row > * {
-			box-sizing: border-box;
-		}
-
-		.row > .col-6-medium {
-			width: 50%;
-		}
-		
+	.row > .col-12-small {
+		width: 100%;
 	}
 	
-	
-	
-	@media screen and (max-width: 736px) {
-
-	.row {
-		display: flex;
-		flex-wrap: wrap;
-		box-sizing: border-box;
-		align-items: stretch;
-	}
-
-		.row > * {
-			box-sizing: border-box;
-		}
-	
-		.row > .col-12-small {
-			width: 100%;
-		}
-		
-	}
+}
 			
 			
-	/* Box */
+/* Box */
 
-	.box {
-		background: #fff;
-		box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.15), 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
-		text-align: center;
-		padding: 2em;
+.box {
+	background: #fff;
+	box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.15), 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
+	text-align: center;
+	padding: 2em;
+}
+
+	.box.style1 {
+		padding: 3em 2em 3.5em 2em;
 	}
 
-		.box.style1 {
-			padding: 3em 2em 3.5em 2em;
+		.box.style1 h3 {
+			margin-bottom: 0.5em;
 		}
 
-			.box.style1 h3 {
-				margin-bottom: 0.5em;
-			}
+	.box.style2 h3 {
+		margin-bottom: 0.25em;
+	}
 
-		.box.style2 h3 {
-			margin-bottom: 0.25em;
-		}
-
-		.box.style2 .image {
-			position: relative;
-			left: 2em;
-			top: 2em;
-			margin: -4em 0 4em -4em;
-			width: auto;
-		}
+	.box.style2 .image {
+		position: relative;
+		left: 2em;
+		top: 2em;
+		margin: -4em 0 4em -4em;
+		width: auto;
+	}
 		
 		
 /* Image */
