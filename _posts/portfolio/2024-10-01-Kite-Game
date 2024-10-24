@@ -1,0 +1,47 @@
+---
+layout: post
+title: Kite Game
+subtitle: Inspiration from Real Life Art
+# cover-img: /assets/img/LostInSpace_Images/LostInSpace_3.png
+# thumbnail-img: /assets/img/LostInSpace_Images/LostInSpace_Thumbnail-Image.png
+# share-img: /assets/img/LostInSpace_Images/LostInSpace_6.png
+gh-repo: daattali/beautiful-jekyll
+author: Sebastian Salas
+---
+
+**Kite Game** was born from the Game Jam of Museum La Tertulia from Cali, Colombia in 2020. 
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eDMtEgrtgUA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Inspired by the work "El Pandero" by Alfonso Quijano from the museum's collection, seeing some children playing with their kite trapped in a tree and how this represents the problem they have in their lives, we want all people to fly their kite facing obstacles and fulfilling their dreams. 
+
+The visual and artistic part was inspired by the works "Avenida" by Leon Ferrari and "Serie Amazonica: Selva#2" by Maria Thereza Negreiros as they are works in constant movement with different shapes and colors without forms, respectively. With one last surprise, taken from the work "Teatro Belalcázar". 
+
+I worked as a game designer and software developer creating the concepts and the mechanics of the game. From the creation of the concept of controlling the character and the kite, the physics of the kite and how it should behave and the obstacles that the player should surpass.
+
+This project was made for the Game Jam of Museum La Tertulia from Cali, Colombia in 2020. 
+
+**Genre:** 2D Platform\
+**Software:** Unity\
+**Project Type:** Group Project\
+**Development Time:** 3 Days\
+**My Role:**  Game Designer, Game Programmer
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/img/LostInSpace_Images/LostInSpace_8.png" width="400" /> 
+    </div>
+    <div class="column">
+      <img src="/assets/img/LostInSpace_Images/LostInSpace_5.png" width="400" /> 
+    </div>
+    <div class="column">
+      <img src="/assets/img/LostInSpace_Images/LostInSpace_7.png" width="400" />
+    </div>    
+</div>
+
+
+**My Responsabilities:**
+* Worked as a Game Designer and created the mechanical concept of controlling the character and the kite.
+* Programmed the actions of the character and the controls for the kite.
+* Developed the spawn of the enemies in random position to create a different experience in each playthrough.
