@@ -1129,8 +1129,8 @@ pre {
 	flex-wrap: wrap;
 	box-sizing: border-box;
 	align-items: stretch;
-	margin-right: -25px;
-	margin-left: -25px;
+	margin-right: -30px;
+	margin-left: -30px;
 }
 
 .row > .col-4 {
