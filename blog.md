@@ -4,4 +4,4 @@ title: Blog
 subtitle: Technical Game Designer and Game Developer
 ---
 
-I'm still trying to figure out how to arrange my posts.
+Here are some pieces I've written about games and design —I hope you enjoy reading them!
