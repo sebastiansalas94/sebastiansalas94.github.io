@@ -2,7 +2,7 @@
 layout: post
 title: Portal Echoes
 subtitle: Mechanical Gameplay
-cover-img: /assets/img/PortalEchoes/PortalEchoes_StartScreen.png
+cover-img: /assets/img/PortalEchoes/PortalEchoes_1.png
 thumbnail-img: /assets/img/PortalEchoes/PortalEchoes_StartScreen.png
 share-img: /assets/img/PortalEchoes/PortalEchoes_StartScreen.png
 gh-repo: daattali/beautiful-jekyll
@@ -16,10 +16,10 @@ author: Sebastian Salas
 
 <div class="row">
   <div class="column">
-    <img src="/assets/img/KiteGame/PortalEchoes_1.png" width="400" /> 
+    <img src="/assets/img/PortalEchoes/PortalEchoes_1.png" width="400" /> 
     </div>
     <div class="column">
-      <img src="/assets/img/KiteGame/PortalEchoes_2.png" width="400" /> 
+      <img src="/assets/img/PortalEchoes/PortalEchoes_2.png" width="400" /> 
     </div>
 </div>
 
@@ -27,10 +27,10 @@ This was a task for a Game Development Course where we were required to implemen
 
 <div class="row">
   <div class="column">
-    <img src="/assets/img/KiteGame/PortalEchoes_3.png" width="400" /> 
+    <img src="/assets/img/PortalEchoes/PortalEchoes_3.png" width="400" /> 
     </div>
     <div class="column">
-      <img src="/assets/img/KiteGame/PortalEchoes_4.png" width="400" /> 
+      <img src="/assets/img/PortalEchoes/PortalEchoes_4.png" width="400" /> 
     </div>
 </div>
 
