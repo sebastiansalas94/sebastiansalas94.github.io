@@ -15,15 +15,15 @@ This is a collection of my work to date, including personal projects, courses, a
   </div>
     <div class="col-4 col-6-medium col-12-small">
     <article class="box style2">
-      <a href="_posts/porfolio/2024-10-10-PortalEchoes" class="image featured"><img src="/assets/img/PortalEchoes/PortalEchoes_3.png" alt=""></a>
-      <h3><a href="_posts/porfolio/2024-10-10-PortalEchoes">Portal Echoes</a></h3>
+      <a href="https://sebastiansalas94.github.io/2024-10-10-Portal-Echoes" class="image featured"><img src="/assets/img/PortalEchoes/PortalEchoes_3.png" alt=""></a>
+      <h3><a href="https://sebastiansalas94.github.io/2024-10-10-Portal-Echoes">Portal Echoes</a></h3>
       <p>Mechanical Gameplay</p>
     </article>
   </div>
     <div class="col-4 col-6-medium col-12-small">
     <article class="box style2">
-      <a href="_posts/porfolio/2024-10-01-Kite-Game.md" class="image featured"><img src="/assets/img/KiteGame/KiteGame_Start.png" alt=""></a>
-      <h3><a href="_posts/porfolio/2024-10-01-Kite-Game.md">Kite Game</a></h3>
+      <a href="https://sebastiansalas94.github.io/2024-10-01-Kite-Game" class="image featured"><img src="/assets/img/KiteGame/KiteGame_Start.png" alt=""></a>
+      <h3><a href="https://sebastiansalas94.github.io/2024-10-01-Kite-Game">Kite Game</a></h3>
       <p>A game about a Kite.</p>
     </article>
   </div>
