@@ -3,7 +3,7 @@ layout: post
 title: Portal Echoes
 subtitle: Mechanical Gameplay
 cover-img: /assets/img/PortalEchoes/PortalEchoes_1.png
-thumbnail-img: /assets/img/PortalEchoes/PortalEchoes_StartScreen.png
+thumbnail-img: /assets/img/PortalEchoes/PortalEchoes_1.png
 share-img: /assets/img/PortalEchoes/PortalEchoes_StartScreen.png
 gh-repo: daattali/beautiful-jekyll
 author: Sebastian Salas
