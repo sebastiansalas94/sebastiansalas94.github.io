@@ -35,7 +35,7 @@ Unfortunately, with this being the first one, these mechanics are not included b
     <img src="/assets/img/FireEmblem_img/FE_SD_BL_3.jpg" width="400" /> 
     </div>
     <div class="column">
-      <img src="assets/img/FireEmblem_img/FE_SD_BL_4.jpg" width="400" /> 
+      <img src="/assets/img/FireEmblem_img/FE_SD_BL_4.jpg" width="400" /> 
     </div>
 </div>
 
