@@ -1,11 +1,21 @@
 ---
-layout: default
-title: First Impressions
-subtitle: Sports Game
+layout: post
+title: Playing Fishing Planet as a Sport
+subtitle: First Impressions - Sports Game Week
+thumbnail-img: /assets/img/FishingPlanet_img/FP_1.png
 categories: blog
 ---
 
 This week I played *Fishing Planet*, and while I do not play that many sports games, I think it was the designed experience of a fishing game. I was impressed that this game had 9/10 with 60,074 reviews in Steam. I have always liked fishing as a mechanic when playing other type of games (from doing it in *Pokemon* games to get water pokemons, using it in *The Legend of Zelda: Ocarina of Time* in a fishing minigame to get rewards, and *Stardew Valley* fishing minigame as one of my favorites how it was executed) and how they implement this type of mechanic and what it contributes to the experience as a whole, but it was always as the means to an end, not for the activity itself.
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/img/FishingPlanet_img/FP_1.png" width="400" /> 
+    </div>
+    <div class="column">
+      <img src="/assets/img/FishingPlanet_img/Zelda_OoT_Fishing.jpg" width="400" /> 
+    </div>
+</div>
  
 Most of the time I played was a peaceful time while waiting for the fish to take the bait and then I felt a rush of adrenaline to reel in the fish so as not to let it escape, always having my hand on top of the mouse to be ready) but in general I found it a bit boring and not a game for me. This game is an online fishing game, which was nice to see more players playing and fishing, but it didn't add to my engagement. I would have preferred it to be a single player goal-oriented game with a narrative and a story to follow (thinking of something like *Legend of the River King*).
  
