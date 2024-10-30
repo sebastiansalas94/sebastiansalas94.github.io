@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Retrospective of Fire Emblem: Shadow Dragon and the Blade of Light (1990)
 subtitle: First Impression - Strategy Game Week
 categories: blog
