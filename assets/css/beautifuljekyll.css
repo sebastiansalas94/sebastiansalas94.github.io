@@ -1226,6 +1226,7 @@ pre {
 		.image img {
 			display: block;
 			width: 100%;
+			height: 160px;
 		}
 
 		.image.fit {
