@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Portfolio
-subtitle: Technical Game Designer and Game Developer
 ---
 This is a collection of my work to date, including personal projects, courses work, and game jam entries. For more, feel free to explore my [Itch](https://sebastiansalas94.itch.io/) page!
 
