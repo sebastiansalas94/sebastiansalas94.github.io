@@ -2,7 +2,7 @@
 layout: page
 title: Portfolio
 ---
-This is a collection of my work to date, including personal projects, courses work, and game jam entries. For more, feel free to explore my [Itch](https://sebastiansalas94.itch.io/) page!
+This is a collection of my work to date, including personal projects, courses work, and game jam entries. For more, feel free to explore my [**Itch**](https://sebastiansalas94.itch.io/) page!
 
 <div class="row">
   <div class="col-4 col-6-medium col-12-small">
