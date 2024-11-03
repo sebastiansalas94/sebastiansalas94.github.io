@@ -33,10 +33,10 @@ There was also an enemy patrolling a designated space in the map that when it de
 
 <div class="row">
   <div class="column">
-    <img src="/assets/img/EscapeSim/PortalEchoes_4.png" width="400" /> 
+    <img src="/assets/img/EscapeSim/EscapeSim_4.png" width="400" /> 
     </div>
     <div class="column">
-      <img src="/assets/img/EscapeSim/PortalEchoes_3_SlowTime.png" width="400" /> 
+      <img src="/assets/img/EscapeSim/EscapeSim_3_SlowTime.png" width="400" /> 
     </div>
 </div>
 
