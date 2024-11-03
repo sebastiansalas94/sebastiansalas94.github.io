@@ -155,11 +155,11 @@ text-col: "#404040"
 link-col: "#7de2d1"
 hover-col: "#42BFDD"
 
-navbar-col: "#339989"
+navbar-col: "#7DE2D1"
 navbar-text-col: "#404040"
 navbar-border-col: "#40434E"
 
-footer-col: "#339989"
+footer-col: "#7DE2D1"
 footer-text-col: "#404040"
 footer-link-col: "#42BFDD"
 footer-hover-col: "#42BFDD"
