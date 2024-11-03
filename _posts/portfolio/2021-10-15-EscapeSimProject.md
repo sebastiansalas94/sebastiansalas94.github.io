@@ -14,8 +14,7 @@ The game consists on finding 4 reactors to open the door and escape to win.
 
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PO2p3l63-PI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5K7UgCIVxrQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This reactors are in different zones where each one has its own obstacles. One of the explored mechanics was traps and there were 2 kinds. 
 The first one is a barrel that if you are too close to it when it explodes it will leave you in a burned state, this was an experimentation of a status ailment that does damage over time. 
