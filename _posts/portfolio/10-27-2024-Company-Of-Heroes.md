@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Company of Heroes: Minimal Board Game
+title: "Company of Heroes: Minimal Board Game"
 subtitle: "Adapting into a Board Game!"
 cover-img: /assets/img/CoH/CoH_3.png
 thumbnail-img: /assets/img/CoH/CoH_3.png
