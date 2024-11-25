@@ -16,12 +16,21 @@ author: Sebastian Salas
     <img src="/assets/img//CoH/CoH_7.png" width="400" /> 
     </div>
     <div class="column">
-      <img src="/assets/img//CoH/CoH_3.png" width="400" /> 
+      <img src="/assets/img//CoH/CoH_4.png" width="400" /> 
     </div> 
 </div>
 
 **Synopsis:**
 **Company of Heroes** gameplay focuses on controlling squads with various units in it and giving them commands to perform actions. The player should control these units to traverse the map to seize the Objectives and claim the Point of Interests while managing resources to deploy new squads as needed.
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/img//CoH/CoH_5.png" width="400" /> 
+    </div>
+    <div class="column">
+      <img src="/assets/img//CoH/CoH_3.png" width="400" /> 
+    </div> 
+</div>
 
 In our board game adaptation for Company of Heroes the gameplay is faithful. The player controls squads moving toward the objectives through a grid map with fog of war, where at any time an enemy unit can appear while traversing the map. To replicate the experience and be as faithful as possible to the original game, we created different Squads composed of different units such as Infantry, Engineers, High Maching Gun (HMG), Anti-Tank and Tanks. Also, the squads' HP is visually shown depending on how many units the board game piece has using the states functions of Table Top Simulator, as shown below.
 
@@ -48,14 +57,7 @@ Since this a Single-Player game, we implemented a Deck System for the player to 
 **Development Time:** 3 Week\
 **My Role:** Game Designer, Lead Programmer
 
-<div class="row">
-  <div class="column">
-    <img src="/assets/img//CoH/CoH_5.png" width="400" /> 
-    </div>
-    <div class="column">
-      <img src="/assets/img//CoH/CoH_4.png" width="400" /> 
-    </div> 
-</div>
+
 
 **My Responsabilities:**
 * Applied the MDA Framework to convey an experience to the player.
