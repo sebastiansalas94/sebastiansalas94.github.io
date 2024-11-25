@@ -155,9 +155,16 @@ navbar-var-length: false
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#339989"
-hover-col: "#74D0E7"
+
+# Mustard Yellow
+hover-col: "#FBAF00"
+# Light Blue
+#hover-col: "#74D0E7"
+
 # Gray
-navbar-col: "#ADAECA" 
+#navbar-col: "#ADAECA" 
+#Dark Blue
+navbar-col:"#1C3144"
 #Green Blue
 #navbar-col: "#339989"
 
