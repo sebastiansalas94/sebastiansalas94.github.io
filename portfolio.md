@@ -22,7 +22,7 @@ This is a collection of my work to date, including personal projects, courses wo
     <div class="col-4 col-6-medium col-12-small">
     <article class="box style2">
       <a href="https://sebastiansalas94.github.io/2024-10-15-EscapeSimProject" class="image featured"><img src="/assets/img/EscapeSim/EscapeSim_6.png" alt=""></a>
-      <h3><a href="https://sebastiansalas94.github.io/2024-10-15-EscapeSimProject">Escape Project Simulation</a></h3>
+      <h3><a href="https://sebastiansalas94.github.io/2024-10-15-EscapeSimProject">Escape Simulation Project</a></h3>
       <p>Exploring more mechanics' gameplay</p>
     </article>
   </div>
