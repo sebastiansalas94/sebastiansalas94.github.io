@@ -20,7 +20,7 @@ author: Sebastian Salas
     </div> 
 </div>
 
-**Synopsis:**
+**Synopsis:**\
 **Company of Heroes** gameplay focuses on controlling squads with various units in it and giving them commands to perform actions. The player should control these units to traverse the map to seize the Objectives and claim the Point of Interests while managing resources to deploy new squads as needed.
 
 <div class="row">
@@ -43,7 +43,7 @@ In our board game adaptation for Company of Heroes the gameplay is faithful. The
     </div> 
 </div>
 
-Since this a Single-Player game, we implemented a Deck System for the player to encounter enemies randomly and have clear objectives by simulating the artificial intelligence of an enemy.
+Since this a Single-Player game, we implemented a Deck System for the player to encounter enemies randomly and have clear objectives by simulating the artificial intelligence of an enemy while also giving incentives for the player to explore the Point of Interests to get different rewards.
 
 <div class="row">
     <div class="column">
