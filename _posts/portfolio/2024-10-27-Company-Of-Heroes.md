@@ -13,7 +13,7 @@ author: Sebastian Salas
 
 <div class="row">
   <div class="column">
-    <img src="/assets/img//CoH/CoH_6.png" width="400" /> 
+    <img src="/assets/img//CoH/CoH_7.png" width="400" /> 
     </div>
     <div class="column">
       <img src="/assets/img//CoH/CoH_3.png" width="400" /> 
