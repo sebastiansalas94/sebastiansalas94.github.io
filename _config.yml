@@ -153,10 +153,8 @@ navbar-var-length: false
 
 
 page-col: "#FFFFFF"
-# Light Blue
-text-col: "#74D0E7"
 # Dark Gray
-#text-col: "#404040"
+text-col: "#404040"
 link-col: "#339989"
 
 # Mustard Yellow
@@ -173,7 +171,10 @@ navbar-col: "#1C3144"
 # Green Blue
 #navbar-col: "#339989"
 
-navbar-text-col: "#404040"
+# Light Blue
+navbar-text-col: "#74D0E7"
+# Dark Gray
+#navbar-text-col: "#404040"
 navbar-border-col: "#40434E"
 
 # --- Footer ---
