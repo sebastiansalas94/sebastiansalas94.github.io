@@ -150,12 +150,17 @@ navbar-var-length: false
 #footer-link-col: "#404040"
 #footer-hover-col: "#0085A1"
 
+
+
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#339989"
 hover-col: "#74D0E7"
+# Gray
+navbar-col: "#ADAECA" 
+#Green Blue
+#navbar-col: "#339989"
 
-navbar-col: "#339989"
 navbar-text-col: "#404040"
 navbar-border-col: "#40434E"
 
