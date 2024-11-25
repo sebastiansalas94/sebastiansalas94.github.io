@@ -7,6 +7,13 @@ This is a collection of my work to date, including personal projects, courses wo
 <div class="row">
   <div class="col-4 col-6-medium col-12-small">
     <article class="box style2">
+      <a href="https://sebastiansalas94.github.io/2024-10-27-Company-Of-Heroes" class="image featured"><img src="/assets/img/CoH/CoH_5.png" alt=""></a>
+      <h3><a href="https://sebastiansalas94.github.io/2024-10-27-Company-Of-Heroes">Company of Heroes: Minimal Board Game</a></h3>
+      <p>Adaptation to a Board Game</p>
+    </article>
+  </div>
+  <div class="col-4 col-6-medium col-12-small">
+    <article class="box style2">
       <a href="https://sebastiansalas94.github.io/2024-10-19-Lost-In-Space" class="image featured"><img src="/assets/img/LostInSpace_Images/LostInSpace_Thumbnail-Image.png" alt=""></a>
       <h3><a href="https://sebastiansalas94.github.io/2024-10-19-Lost-In-Space">Lost in Space</a></h3>
       <p>Applying MDA Framework</p>
@@ -19,18 +26,18 @@ This is a collection of my work to date, including personal projects, courses wo
       <p>Exploring more mechanics' gameplay</p>
     </article>
   </div>
-      <div class="col-4 col-6-medium col-12-small">
-    <article class="box style2">
-      <a href="https://sebastiansalas94.github.io/2024-10-01-Kite-Game" class="image featured"><img src="/assets/img/KiteGame/KiteGame_Start.png" alt=""></a>
-      <h3><a href="https://sebastiansalas94.github.io/2024-10-01-Kite-Game">Kite Game</a></h3>
-      <p>A game about a Kite.</p>
-    </article>
-  </div>
 </div>
 
 <br>
 
 <div class="row">
+  <div class="col-4 col-6-medium col-12-small">
+    <article class="box style2">
+      <a href="https://sebastiansalas94.github.io/2024-10-12-Kite-Game" class="image featured"><img src="/assets/img/KiteGame/KiteGame_Start.png" alt=""></a>
+      <h3><a href="https://sebastiansalas94.github.io/2024-10-12-Kite-Game">Kite Game</a></h3>
+      <p>A game about a Kite.</p>
+    </article>
+  </div>
   <div class="col-4 col-6-medium col-12-small">
     <article class="box style2">
            <a href="https://sebastiansalas94.github.io/2024-10-10-Portal-Echoes" class="image featured"><img src="/assets/img/PortalEchoes/PortalEchoes_3.png" alt=""></a>
