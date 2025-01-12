@@ -40,6 +40,8 @@ With each interaction, you’ll learn more about the customers and the crumbling
     </div> 
 </div>
 
+We encourage our players to reflect on elements such as what makes us human while navigating the rigid communication system of a robot where emojis are all they can use to talk. When self-agency and ability are stripped away from oneself, is there anything else left within us that differentiates us from being a robot? All these are key themes we baked into our game design, hoping to bring our players a comprehensive experience that is emotional and insightful.
+
 **Genre:** Adventure Simulator\
 **Software:** Unity\
 **Project Type:** Group Project\
