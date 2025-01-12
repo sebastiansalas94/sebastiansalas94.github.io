@@ -13,7 +13,7 @@ The game draws inspiration from those odd grocery store moments we’ve all had,
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jbNFNAEgwRY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-You can play this game from the (itch.io page)[https://lightnin7.itch.io/smil-e-mart]!
+You can play this game from the [itch.io page](https://lightnin7.itch.io/smil-e-mart)!
 
 **Synopsis:**\
 Step into the shoes of a robotic cashier in a post-apocalyptic future. The rebels are planning to start a war. In this simulation, you’ll do more than just scan groceries, you’ll unravel the mysteries behind your customers’ lives through their peculiar purchasing habits and cryptic behaviors.
