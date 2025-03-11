@@ -602,6 +602,9 @@ footer .footer-custom-content {
   .navbar-custom .avatar-container {
     bottom: -3rem;
   }
+  .row {
+        display: block;
+  }
   .row > .col-12-small {
         width: 100%;
         max-width: 100%;
