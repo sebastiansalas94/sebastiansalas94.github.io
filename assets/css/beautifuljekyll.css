@@ -603,7 +603,7 @@ footer .footer-custom-content {
     bottom: -3rem;
   }
   .row {
-        display: block;
+        display: block !important;
   }
   .row > .col-12-small {
         width: 100%;
