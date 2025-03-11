@@ -602,9 +602,6 @@ footer .footer-custom-content {
   .navbar-custom .avatar-container {
     bottom: -3rem;
   }
-  .row {
-        display: block !important;
-  }
   .row > .col-12-small {
         width: 100%;
         max-width: 100%;
@@ -1217,6 +1214,16 @@ pre {
 	}
 	
 }
+
+@media screen and (max-width: 500px) {
+
+.row {
+	display: block;
+	flex-wrap: wrap;
+	box-sizing: border-box;
+	align-items: stretch;
+}
+
 			
 			
 /* Box */
