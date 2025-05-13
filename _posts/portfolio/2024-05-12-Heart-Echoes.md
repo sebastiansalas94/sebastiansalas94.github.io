@@ -2,9 +2,9 @@
 layout: post
 title: "Heart Echoes"
 subtitle: "CAMD Art+Design Grant Winner"
-cover-img: /assets/img/Smil-E-Mart/image1.png
-thumbnail-img: /assets/img/Smil-E-Mart/image1.png
-share-img: /assets/img/Smil-E-Mart/image1.png
+cover-img: /assets/img/HeartEchoes/Digital_UI.png
+thumbnail-img: /assets/img/HeartEchoes/Digital_UI.png
+share-img: /assets/img/HeartEchoes/Digital_UI.png
 gh-repo: daattali/beautiful-jekyll
 author: Sebastian Salas
 ---
@@ -18,10 +18,10 @@ You've just arrived in a new place. Unfamiliar, maybe even a little strange. But
 
 <div class="row">
   <div class="column">
-    <img src="/assets/img/Smil-E-Mart/image2.png" width="400" /> 
+    <img src="/assets/img/HeartEchoes/Digital_UI.png" width="400" /> 
     </div>
     <div class="column">
-      <img src="/assets/img/Smil-E-Mart/image18.png" width="400" /> 
+      <img src="/assets/img/HeartEchoes/TileMap.png" width="400" /> 
     </div> 
 </div>
 
@@ -31,10 +31,10 @@ Between the player and them there is a tilemap with empty tiles. The player need
 
 <div class="row">
   <div class="column">
-    <img src="/assets/img/Smil-E-Mart/image3.png" width="400" />  
+    <img src="/assets/img/HeartEchoes/Actions.png" width="400" />  
     </div>
     <div class="column">
-      <img src="/assets/img/Smil-E-Mart/image14.png" width="400" />  
+      <img src="/assets/img/HeartEchoes/Reaction.png" width="400" />  
     </div> 
 </div>
 
@@ -52,3 +52,18 @@ We encourage our players to reflect on elements such as what makes us human whil
 * Design the conditions of different endings throught the sequence of the game.
 
 **Creative Process:**
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/img/HeartEchoes/CreativeProcess.png" width="400" />  
+    </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/img/HeartEchoes/Mockup_UI.png" width="400" />  
+    </div>
+    <div class="column">
+      <img src="/assets/img/HeartEchoes/Digital_UI.png" width="400" />  
+    </div> 
+</div>
