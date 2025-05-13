@@ -21,7 +21,7 @@ You've just arrived in a new place. Unfamiliar, maybe even a little strange. But
     <img src="/assets/img/HeartEchoes/Digital_UI.png" width="400" /> 
     </div>
     <div class="column">
-      <img src="/assets/img/HeartEchoes/TileMap.png" width="400" /> 
+      <img src="/assets/img/HeartEchoes/TileMap.png" width="300" /> 
     </div> 
 </div>
 
@@ -54,14 +54,12 @@ We encourage our players to reflect on elements such as what makes us human whil
 **Creative Process:**
 
 <div class="row">
-  <div class="column">
     <img src="/assets/img/HeartEchoes/CreativeProcess.png" width="400" />  
-    </div>
 </div>
 
 <div class="row">
   <div class="column">
-    <img src="/assets/img/HeartEchoes/Mockup_UI.png" width="400" />  
+    <img src="/assets/img/HeartEchoes/Mockup_UI.png" width="300" />  
     </div>
     <div class="column">
       <img src="/assets/img/HeartEchoes/Digital_UI.png" width="400" />  
