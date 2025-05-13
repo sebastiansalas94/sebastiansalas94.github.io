@@ -4,4 +4,4 @@ title: Resume
 ---
 This is my resume!
 
-<object data="/resume/SebastianSalasResume.pdf" type="application/pdf" width="100%" height="800"> 
+<object data="/resume/Sebastian_Salas_Resume.pdf" type="application/pdf" width="100%" height="800"> 
