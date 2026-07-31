@@ -3,6 +3,18 @@ layout: page
 title: Analyze The Spire - An analytical approach to improving the Design of a Sequel
 ---
 
+<style>
+.intro-header .page-heading h1 {
+  font-size: 2.25rem !important;
+}
+
+@media (min-width: 1200px) {
+  .intro-header .page-heading h1 {
+    font-size: 3.25rem !important;
+  }
+}
+</style>
+
 This was my final project for the Data-Driven Player course from my Master's program.
 
 This research aims to identify player personas in Slay the Spire based 
@@ -15,10 +27,10 @@ We analyze actions such as card selection, combat goals, risk-taking,
 and resource use. 
 
 From this, we identify four distinct player personas: 
-Strategists, who focus on long-term planning and efficient resource 
-management, Bursters, who prioritize aggressive, high-damage strategies, 
-Quick Experimenters, who enjoy trying new mechanics and experiments 
-card combinations and Gamblers, who favor high-risk, high-reward choices. 
+**Strategists**, who focus on long-term planning and efficient resource 
+management, **Bursters**, who prioritize aggressive, high-damage strategies, 
+**Quick Experimenters**, who enjoy trying new mechanics and experiments 
+card combinations and **Gamblers**, who favor high-risk, high-reward choices. 
 These personas can serve as a framework for designing cards, relics, and 
 mechanics that support a wider range of playstyles. The results provide 
 clear guidelines for integrating persona-driven design into future 
