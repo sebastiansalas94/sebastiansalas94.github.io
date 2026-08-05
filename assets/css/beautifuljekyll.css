@@ -1183,12 +1183,16 @@ pre {
 
 /* Bootstrap grid overrides */
 .col-xl-8 {
-  width: 66.66667%;
+  flex: 0 0 74.66667%;
+  max-width: 74.66667%;
+  width: 74.66667%;
 }
 .offset-xl-2 {
-  margin-left: 12.66667%;
+  margin-left: 16.66667%;
 }
 .col-lg-10 {
+  flex: 0 0 83.33333%;
+  max-width: 83.33333%;
   width: 83.33333%;
 }
 .offset-lg-1 {
