@@ -26,10 +26,27 @@ layout: page
       {% endcapture %}
       {% assign thumbnail=thumbnail | strip %}
 
+      {%- capture preview_video -%}
+        {% if post["preview-video"] %}
+          {{ post["preview-video"] }}
+        {% elsif post.video %}
+          {{ post.video }}
+        {% endif %}
+      {% endcapture %}
+      {% assign preview_video=preview_video | strip %}
+
       {% if site.feed_show_excerpt == false %}
-      {% if thumbnail != "" %}
+      {% if preview_video != "" %}
       <div class="post-image post-image-normal">
-        <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
+        <a href="{{ post.url | absolute_url }}" aria-label="Post thumbnail">
+          <video autoplay loop muted playsinline>
+            <source src="{{ preview_video | absolute_url }}">
+          </video>
+        </a>
+      </div>
+      {% elsif thumbnail != "" %}
+      <div class="post-image post-image-normal">
+        <a href="{{ post.url | absolute_url }}" aria-label="Post thumbnail">
           <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
         </a>
       </div>
@@ -54,7 +71,15 @@ layout: page
         Posted on {{ post.date | date: date_format }}
       </p>
 
-      {% if thumbnail != "" %}
+      {% if preview_video != "" %}
+      <div class="post-image post-image-small">
+        <a href="{{ post.url | absolute_url }}" aria-label="Post thumbnail">
+          <video autoplay loop muted playsinline>
+            <source src="{{ preview_video | absolute_url }}">
+          </video>
+        </a>
+      </div>
+      {% elsif thumbnail != "" %}
       <div class="post-image post-image-small">
         <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
           <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
@@ -63,7 +88,15 @@ layout: page
       {% endif %}
 
       {% unless site.feed_show_excerpt == false %}
-      {% if thumbnail != "" %}
+      {% if preview_video != "" %}
+      <div class="post-image post-image-short">
+        <a href="{{ post.url | absolute_url }}" aria-label="Post thumbnail">
+          <video autoplay loop muted playsinline>
+            <source src="{{ preview_video | absolute_url }}">
+          </video>
+        </a>
+      </div>
+      {% elsif thumbnail != "" %}
       <div class="post-image post-image-short">
         <a href="{{ post.url | absolute_url }}" aria-label="Thumbnail">
           <img src="{{ thumbnail | absolute_url }}" alt="Post thumbnail">
