@@ -4,7 +4,7 @@ title: Portfolio
 ---
 This is a collection of my work to date, including personal projects, courses work, and game jam entries. For more, feel free to explore my [**Itch**](https://sebastiansalas94.itch.io/) page!
 
-<div class="row">
+<div class="row-portfolio">
     <div class="col-4 col-6-medium col-12-small">
     <article class="box style2">
       <a href="https://sebastiansalas94.github.io/2024-12-10-Smil-E-Mart" class="image featured"><img src="/assets/img/Smil-E-Mart/image1.png" alt=""></a>
@@ -30,7 +30,7 @@ This is a collection of my work to date, including personal projects, courses wo
 
 <br>
 
-<div class="row">
+<div class="row-portfolio">
   <div class="col-4 col-6-medium col-12-small">
     <article class="box style2">
       <a href="https://sebastiansalas94.github.io/2024-10-15-EscapeSimProject" class="image featured"><img src="/assets/img/EscapeSim/EscapeSim_6.png" alt=""></a>

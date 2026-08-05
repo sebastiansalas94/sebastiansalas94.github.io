@@ -1173,6 +1173,15 @@ pre {
 	margin-left: -110px;
 }
 
+.row-portfolio {
+	display: flex;
+	flex-wrap: wrap;
+	box-sizing: border-box;
+	align-items: stretch;
+	margin-right: -30px;
+	margin-left: -30px;
+}
+
 .row > .col-4 {
 	width: 33.33333%;
 }
