@@ -14,13 +14,9 @@ The music, a hallmark of *Fire Emblem*, is already present in this first title, 
 It's a game well-made with love and attention to details. 
 I can see why this game launched a whole genre and influenced so many others, setting the standard for Tactical RPGs. 
 
-<div class="row">
-  <div class="column">
-    <img src="/assets/img/FireEmblem_img/FE_SD_BL_1.jpg" width="400" /> 
-    </div>
-    <div class="column">
-      <img src="/assets/img/FireEmblem_img/FE_SD_BL_2.jpg" width="400" /> 
-    </div>
+<div class="paired-images">
+  <div class="img-wrap"><img src="/assets/img/FireEmblem_img/FE_SD_BL_1.jpg" alt="Fire Emblem screenshot" /></div>
+  <div class="img-wrap"><img src="/assets/img/FireEmblem_img/FE_SD_BL_2.jpg" alt="Fire Emblem screenshot" /></div>
 </div>
 
 In the case of *Fire Emblem*, I feel it’s a game about micro-managing units. 
@@ -31,13 +27,9 @@ The recent Fire Emblem games tells the story in a Support System where 2 charact
 This has also been used as a mechanic to make them married and in some games, the children are the ones that take over the stories and the guiding thread of the narrative. 
 Unfortunately, with this being the first one, these mechanics are not included but it’s a staple that *Fire Emblem* has carried since their third game (which ironically, is a remake of this same game with its sequel, all in one game), but without a doubt this first game created a strong foundation for the games that were to come later.
 
-<div class="row">
-  <div class="column">
-    <img src="/assets/img/FireEmblem_img/FE_SD_BL_3.jpg" width="400" /> 
-    </div>
-    <div class="column">
-      <img src="/assets/img/FireEmblem_img/FE_SD_BL_4.jpg" width="400" /> 
-    </div>
+<div class="paired-images">
+  <div class="img-wrap"><img src="/assets/img/FireEmblem_img/FE_SD_BL_3.jpg" alt="Fire Emblem screenshot" /></div>
+  <div class="img-wrap"><img src="/assets/img/FireEmblem_img/FE_SD_BL_4.jpg" alt="Fire Emblem screenshot" /></div>
 </div>
 
 Another thing that I would like to add is that during the whole Group Project 2 from GSND 5110 we learned about difficulty and balance. 
