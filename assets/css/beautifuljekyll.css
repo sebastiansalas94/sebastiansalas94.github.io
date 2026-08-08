@@ -1225,6 +1225,33 @@ pre {
 	margin-left: -30px;
 }
 
+/* Portfolio card hover border fill (fills in on hover to indicate selection) */
+.row-portfolio .box.style2 {
+  position: relative;
+  overflow: hidden;
+  z-index: 0;
+  border-radius: 0.3125rem;
+}
+
+.row-portfolio .box.style2::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  border-radius: inherit;
+  border: 3px solid var(--hover-col);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 260ms ease;
+  z-index: 1;
+  opacity: 0.95;
+}
+
+.row-portfolio .box.style2:hover::after,
+.row-portfolio .box.style2:focus-within::after {
+  transform: scaleX(1);
+}
+
 .row-images {
 	display: flex;
 	flex-wrap: wrap;
