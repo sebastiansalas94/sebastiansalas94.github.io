@@ -1064,6 +1064,8 @@ pre {
 
 .blog-post img {
   max-width: 100%;
+  border: 1px solid var(--panel-edge);
+  border-radius: 0.3125rem;
 }
 
 .blog-post .caption {
@@ -1382,6 +1384,7 @@ pre {
   height: 400px; /* visible height for both images; adjust as needed */
   border-radius: 0.3125rem;
   background: var(--page-col);
+  border: 1px solid var(--panel-edge);
 }
 .paired-images .img-wrap img {
   width: 100%;
