@@ -1390,9 +1390,18 @@ pre {
   display: block;
 }
 
+.paired-images.single-image {
+  justify-content: center;
+}
+.paired-images.single-image .img-wrap {
+  flex: 0 1 100%;
+  max-width: 600px;
+}
+
 @media (max-width: 767px) {
   .paired-images { flex-direction: column; }
   .paired-images .img-wrap { height: 200px; }
+  .paired-images.single-image .img-wrap { max-width: 100%; }
 }
 
 		.image.fit {
