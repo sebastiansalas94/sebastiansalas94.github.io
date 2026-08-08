@@ -17,6 +17,12 @@ author: Sebastian Salas
 **Synopsis:**
 The novice astronaut, Elias, has just regained consciousness floating across an asteroid belts. With few tools at hand, he must manage to survive and find his spaceship.
 
+<div class="paired-images centered" height="200px">
+  <div class="img-wrap"><img src="/assets/img/LostInSpace_Images/LostInSpace_8.png" alt="Lost in Space screenshot" /></div>
+  <div class="img-wrap"><img src="/assets/img/LostInSpace_Images/LostInSpace_5.png" alt="Lost in Space screenshot" /></div>
+  <div class="img-wrap"><img src="/assets/img/LostInSpace_Images/LostInSpace_7.png" alt="Lost in Space screenshot" /></div>
+</div>
+
 This project was made for the class *Game Design and Analysis* using the MDA Framework.
 
 **Genre:** Adventure\
@@ -24,13 +30,6 @@ This project was made for the class *Game Design and Analysis* using the MDA Fra
 **Project Type:** Group Project\
 **Development Time:** 2 Week\
 **My Role:** Lead Programmer
-
-<div class="paired-images centered">
-  <div class="img-wrap"><img src="/assets/img/LostInSpace_Images/LostInSpace_8.png" alt="Lost in Space screenshot" /></div>
-  <div class="img-wrap"><img src="/assets/img/LostInSpace_Images/LostInSpace_5.png" alt="Lost in Space screenshot" /></div>
-  <div class="img-wrap"><img src="/assets/img/LostInSpace_Images/LostInSpace_7.png" alt="Lost in Space screenshot" /></div>
-</div>
-
 
 **My Responsabilities:**
 * Applied the MDA Framework to convey an experience to the player.
