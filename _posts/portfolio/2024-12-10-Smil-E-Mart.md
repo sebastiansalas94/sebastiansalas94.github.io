@@ -18,7 +18,7 @@ You can play this game from the [itch.io page](https://lightnin7.itch.io/smil-e-
 **Synopsis:**\
 Step into the shoes of a robotic cashier in a post-apocalyptic future. The rebels are planning to start a war. In this simulation, you’ll do more than just scan groceries, you’ll unravel the mysteries behind your customers’ lives through their peculiar purchasing habits and cryptic behaviors.
 
-<div class="row">
+<div class="row-images">
   <div class="column">
     <img src="/assets/img/Smil-E-Mart/image2.png" width="400" /> 
     </div>
@@ -31,7 +31,7 @@ At the start, you are programmed for basic tasks, unable to fully grasp the sema
 
 With each interaction, you’ll learn more about the customers and the crumbling society they navigate. You have the ability to flag suspicious customers, making decisions that impact the story’s progression. Every choice matters, leading to diverse endings that reflect your actions and judgment.
 
-<div class="row">
+<div class="row-images">
   <div class="column">
     <img src="/assets/img/Smil-E-Mart/image3.png" width="400" />  
     </div>
