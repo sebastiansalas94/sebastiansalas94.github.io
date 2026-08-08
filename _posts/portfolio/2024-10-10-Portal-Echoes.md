@@ -16,24 +16,16 @@ author: Sebastian Salas
 
 This was a task for a Game Development Course where we were required to implement a new weapon for the character. I decided to go for a weapon whose mechanics were more support-oriented and could also provide a playful experience depending on its usage
 
-<div class="row">
-  <div class="column">
-    <img src="/assets/img/PortalEchoes/PortalEchoes_1.png" width="400" /> 
-    </div>
-    <div class="column">
-      <img src="/assets/img/PortalEchoes/PortalEchoes_2.png" width="400" /> 
-    </div>
+<div class="paired-images">
+  <div class="img-wrap"><img src="/assets/img/PortalEchoes/PortalEchoes_1.png" alt="Portal Echoes screenshot" /></div>
+  <div class="img-wrap"><img src="/assets/img/PortalEchoes/PortalEchoes_2.png" alt="Portal Echoes screenshot" /></div>
 </div>
 
 In this project there are various puzzles that the player has to solve to traverse the level. There are also enemies that patrol areas and switches to activate platforms.
 
-<div class="row">
-  <div class="column">
-    <img src="/assets/img/PortalEchoes/PortalEchoes_3.png" width="400" /> 
-    </div>
-    <div class="column">
-      <img src="/assets/img/PortalEchoes/PortalEchoes_4.png" width="400" /> 
-    </div>
+<div class="paired-images">
+  <div class="img-wrap"><img src="/assets/img/PortalEchoes/PortalEchoes_3.png" alt="Portal Echoes screenshot" /></div>
+  <div class="img-wrap"><img src="/assets/img/PortalEchoes/PortalEchoes_4.png" alt="Portal Echoes screenshot" /></div>
 </div>
 
 **Genre:** Puzzles\

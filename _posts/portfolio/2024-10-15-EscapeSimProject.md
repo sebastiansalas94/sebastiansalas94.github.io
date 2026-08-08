@@ -20,24 +20,16 @@ This reactors are in different zones where each one has its own obstacles. One o
 The first one is a barrel that if you are too close to it when it explodes it will leave you in a burned state, this was an experimentation of a status ailment that does damage over time. 
 The other one is a mine that if you step on it explodes, but it can be destroyed shooting at it. 
 
-<div class="row">
-  <div class="column">
-    <img src="/assets/img/EscapeSim/EscapeSim_2_BurningEffect.png" width="400" /> 
-    </div>
-    <div class="column">
-      <img src="/assets/img/EscapeSim/EscapeSim_7_Mine.png" width="400" /> 
-    </div>
+<div class="paired-images">
+  <div class="img-wrap"><img src="/assets/img/EscapeSim/EscapeSim_2_BurningEffect.png" alt="Escape Simulation burning effect" /></div>
+  <div class="img-wrap"><img src="/assets/img/EscapeSim/EscapeSim_7_Mine.png" alt="Escape Simulation mine" /></div>
 </div>
 
 There was also an enemy patrolling a designated space in the map that when it detected the player would begin a persecution . With each kill the player does it would fill the XP Bar to unleash an ultimate when it's fully charged. This ultimate has the ability to slow time and let the player to move at a high speed.
 
-<div class="row">
-  <div class="column">
-    <img src="/assets/img/EscapeSim/EscapeSim_4.png" width="400" /> 
-    </div>
-    <div class="column">
-      <img src="/assets/img/EscapeSim/EscapeSim_3_SlowTime.png" width="400" /> 
-    </div>
+<div class="paired-images">
+  <div class="img-wrap"><img src="/assets/img/EscapeSim/EscapeSim_4.png" alt="Escape Simulation gameplay" /></div>
+  <div class="img-wrap"><img src="/assets/img/EscapeSim/EscapeSim_3_SlowTime.png" alt="Escape Simulation slow time" /></div>
 </div>
 
 **Genre:** Adventure\

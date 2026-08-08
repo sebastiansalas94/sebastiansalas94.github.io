@@ -25,16 +25,10 @@ This project was made for the class *Game Design and Analysis* using the MDA Fra
 **Development Time:** 2 Week\
 **My Role:** Lead Programmer
 
-<div class="row">
-  <div class="column">
-    <img src="/assets/img/LostInSpace_Images/LostInSpace_8.png" width="400" /> 
-    </div>
-    <div class="column">
-      <img src="/assets/img/LostInSpace_Images/LostInSpace_5.png" width="400" /> 
-    </div>
-    <div class="column">
-      <img src="/assets/img/LostInSpace_Images/LostInSpace_7.png" width="400" />
-    </div>    
+<div class="paired-images centered">
+  <div class="img-wrap"><img src="/assets/img/LostInSpace_Images/LostInSpace_8.png" alt="Lost in Space screenshot" /></div>
+  <div class="img-wrap"><img src="/assets/img/LostInSpace_Images/LostInSpace_5.png" alt="Lost in Space screenshot" /></div>
+  <div class="img-wrap"><img src="/assets/img/LostInSpace_Images/LostInSpace_7.png" alt="Lost in Space screenshot" /></div>
 </div>
 
 
