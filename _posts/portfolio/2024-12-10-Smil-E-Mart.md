@@ -18,26 +18,18 @@ You can play this game from the [itch.io page](https://lightnin7.itch.io/smil-e-
 **Synopsis:**\
 Step into the shoes of a robotic cashier in a post-apocalyptic future. The rebels are planning to start a war. In this simulation, you’ll do more than just scan groceries, you’ll unravel the mysteries behind your customers’ lives through their peculiar purchasing habits and cryptic behaviors.
 
-<div class="row-images">
-  <div class="column">
-    <img src="/assets/img/Smil-E-Mart/image2.png" width="400" /> 
-    </div>
-    <div class="column">
-      <img src="/assets/img/Smil-E-Mart/image18.png" width="400" /> 
-    </div> 
+<div class="paired-images">
+  <div class="img-wrap"><img src="/assets/img/Smil-E-Mart/image2.png" alt="Smil-E-Mart screenshot" /></div>
+  <div class="img-wrap"><img src="/assets/img/Smil-E-Mart/image18.png" alt="Smil-E-Mart screenshot" /></div>
 </div>
 
 At the start, you are programmed for basic tasks, unable to fully grasp the semantics of human interaction. That changes when a mysterious customer hands you a special chip. This upgrade allows you to decipher their words and introduces a unique communication system based on emojis.
 
 With each interaction, you’ll learn more about the customers and the crumbling society they navigate. You have the ability to flag suspicious customers, making decisions that impact the story’s progression. Every choice matters, leading to diverse endings that reflect your actions and judgment.
 
-<div class="row-images">
-  <div class="column">
-    <img src="/assets/img/Smil-E-Mart/image3.png" width="400" />  
-    </div>
-    <div class="column">
-      <img src="/assets/img/Smil-E-Mart/image14.png" width="400" />  
-    </div> 
+<div class="paired-images">
+  <div class="img-wrap"><img src="/assets/img/Smil-E-Mart/image3.png" alt="Smil-E-Mart screenshot" /></div>
+  <div class="img-wrap"><img src="/assets/img/Smil-E-Mart/image14.png" alt="Smil-E-Mart screenshot" /></div>
 </div>
 
 We encourage our players to reflect on elements such as what makes us human while navigating the rigid communication system of a robot where emojis are all they can use to talk. When self-agency and ability are stripped away from oneself, is there anything else left within us that differentiates us from being a robot? All these are key themes we baked into our game design, hoping to bring our players a comprehensive experience that is emotional and insightful.
