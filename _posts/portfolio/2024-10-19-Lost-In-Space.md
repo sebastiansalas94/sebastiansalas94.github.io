@@ -6,7 +6,7 @@ cover-img: /assets/img/LostInSpace_Images/LostInSpace_3.png
 thumbnail-img: /assets/img/LostInSpace_Images/LostInSpace_Thumbnail-Image.png
 share-img: /assets/img/LostInSpace_Images/LostInSpace_6.png
 gh-repo: daattali/beautiful-jekyll
-author: Sebastian Salas
+tech: Unity 3D, C#
 ---
 
 **Lost in Space** is about searching for hope even in the most dire situation.

@@ -6,7 +6,7 @@ cover-img: /assets/img/HeartEchoes/Digital_UI.png
 thumbnail-img: /assets/img/HeartEchoes/Digital_UI.png
 share-img: /assets/img/HeartEchoes/Digital_UI.png
 gh-repo: daattali/beautiful-jekyll
-author: Sebastian Salas
+tech: Game Design
 ---
 
 Heart Echoes is a Role Playing Game where you will build meaningful relationships with the townsfolk using the construction of bridges as a metaphor.

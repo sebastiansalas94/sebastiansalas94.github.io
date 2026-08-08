@@ -6,7 +6,7 @@ cover-img: /assets/img/EscapeSim/EscapeSim_1.png
 thumbnail-img: /assets/img/EscapeSim/EscapeSim_2_BurningEffect.png
 share-img: /assets/img/EscapeSim/EscapeSim_1.png
 gh-repo: daattali/beautiful-jekyll
-author: Sebastian Salas
+tech: Unreal Engine, C++
 ---
 
 **Escape Simulation Project** was a personal project where I explored different implementations of mechanics as a software developer in Unreal Engine. 

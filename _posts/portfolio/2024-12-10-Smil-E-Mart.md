@@ -6,7 +6,7 @@ cover-img: /assets/img/Smil-E-Mart/image1.png
 thumbnail-img: /assets/img/Smil-E-Mart/image1.png
 share-img: /assets/img/Smil-E-Mart/image1.png
 gh-repo: daattali/beautiful-jekyll
-author: Sebastian Salas
+tech: Unity 3D, C#
 ---
 
 The game draws inspiration from those odd grocery store moments we’ve all had, spotting bizarre item combinations and wondering, who buys this stuff? and why? But this isn’t just a quirky simulator. It’s set in a world where survival and secrecy go hand in hand, and as a robotic cashier, your role extends beyond mundane transactions. 

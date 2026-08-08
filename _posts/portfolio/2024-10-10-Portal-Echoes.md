@@ -6,7 +6,7 @@ cover-img: /assets/img/PortalEchoes/PortalEchoes_1.png
 thumbnail-img: /assets/img/PortalEchoes/PortalEchoes_1.png
 share-img: /assets/img/PortalEchoes/PortalEchoes_StartScreen.png
 gh-repo: daattali/beautiful-jekyll
-author: Sebastian Salas
+tech: Unreal Engine, C++
 ---
 
 **Portal Echoes** is about solving spatial puzzles and learning to develop a new gameplay mechanic.

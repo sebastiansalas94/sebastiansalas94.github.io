@@ -6,7 +6,7 @@ cover-img: /assets/img/CoH/CoH_3.png
 thumbnail-img: /assets/img/CoH/CoH_3.png
 share-img: /assets/img/CoH/CoH_3.png
 gh-repo: daattali/beautiful-jekyll
-author: Sebastian Salas
+tech: Table Top Games
 ---
 
 **Company of Heroes: Minimal Board Game** is an adaptation as a single-player board game of the Company of Heroes (2006) video game where the player takes the role of the Allies in the fight against the Nazis.
