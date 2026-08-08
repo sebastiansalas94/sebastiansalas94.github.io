@@ -63,7 +63,10 @@ layout: page
         {% endif %}
       </a>
 
-      {% if post.author %}
+      <!--{% if post.author %}
+        <span>By <strong>{{ post.author | strip_html }}</strong></span>
+      {% endif %}-->
+      {% if post.tech %}
         <span>By <strong>{{ post.author | strip_html }}</strong></span>
       {% endif %}
       <p class="post-meta">
