@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Technical Game Designer and Game Developer
+subtitle: Gameplay Systems Developer
 ---
 
 My name is Sebastian Salas, and I’m a gameplay systems developer, with a background in Software and Systems Engineering and an MS in Game Science and Design from Northeastern University. I build gameplay systems in Unity/C# and Unreal Engine/C++ to support combat, world interaction, dialogue, and game AI systems.
