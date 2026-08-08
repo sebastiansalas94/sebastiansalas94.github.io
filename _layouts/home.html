@@ -67,7 +67,7 @@ layout: page
         <span>By <strong>{{ post.author | strip_html }}</strong></span>
       {% endif %}-->
       {% if post.tech %}
-        <span>By <strong>{{ post.author | strip_html }}</strong></span>
+        <span>By <strong>{{ post.tech | strip_html }}</strong></span>
       {% endif %}
       <p class="post-meta">
         {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
