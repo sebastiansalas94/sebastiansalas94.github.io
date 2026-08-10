@@ -1,0 +1,28 @@
+/* Dark theme overrides */
+html.dark-mode, body.dark-mode {
+  background-color: #0b1220 !important;
+  color: #cbd5e1 !important;
+}
+
+html.dark-mode a, body.dark-mode a {
+  color: #7dd3c6 !important;
+}
+
+html.dark-mode .navbar, body.dark-mode .navbar {
+  background-color: #071028 !important;
+  border-color: #102033 !important;
+}
+
+html.dark-mode .footer, body.dark-mode .footer {
+  background-color: #071028 !important;
+  color: #93c5fd !important;
+}
+
+html.dark-mode .post-meta, body.dark-mode .post-meta {
+  color: #94a3b8 !important;
+}
+
+/* Invert images that are purely decorative (use cautiously) */
+html.dark-mode img.invert-on-dark {
+  filter: brightness(0.95) contrast(1.02);
+}
