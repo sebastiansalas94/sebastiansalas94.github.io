@@ -1,7 +1,8 @@
+
 /* Dark theme overrides */
 html.dark-mode, body.dark-mode {
-  background-color: #0b1220 !important;
-  color: #cbd5e1 !important;
+  background-color: #000000 !important;
+  color: #ffffff !important;
 }
 
 html.dark-mode a, body.dark-mode a {
@@ -9,20 +10,21 @@ html.dark-mode a, body.dark-mode a {
 }
 
 html.dark-mode .navbar, body.dark-mode .navbar {
-  background-color: #071028 !important;
-  border-color: #102033 !important;
+  background-color: #000000 !important;
+  border-color: #111111 !important;
 }
 
 html.dark-mode .footer, body.dark-mode .footer {
-  background-color: #071028 !important;
-  color: #93c5fd !important;
+  background-color: #000000 !important;
+  color: #ffffff !important;
 }
 
 html.dark-mode .post-meta, body.dark-mode .post-meta {
-  color: #94a3b8 !important;
+  color: #ffffff !important;
 }
 
 /* Invert images that are purely decorative (use cautiously) */
 html.dark-mode img.invert-on-dark {
   filter: brightness(0.95) contrast(1.02);
 }
+
