@@ -28,7 +28,7 @@ Rather than being the main damage dealer, you play a support character wielding 
 
 **Gameplay Ability System (GAS):**
 
-Both player and AI abilities were built using Unreal’s Gameplay Ability System, which handles cooldowns, damage/healing, casting ranges, and Visual and Sound effects.  
+Both player and AI abilities were built using Unreal’s Gameplay Ability System, which handles cooldowns, damage/healing, casting ranges, and Visual and Sound effects. When the positioning task completes successfully for an AI, its Behavior Tree will attempt to cast an ability, if any are in range and off cooldown. Besides the player abilities, the AI enemies can melee attack and do an Area of Effect Lightning ability. 
 
 <div class="paired-images">
   <div class="img-wrap"><img src="/assets/img/SupportalCombat/SC_1.png" alt="Supportal Combat Heal screenshot" /></div>
@@ -37,7 +37,7 @@ Both player and AI abilities were built using Unreal’s Gameplay Ability System
 
 **Game AI Behavior:**
 
-The Environmental Query Service (EQS) is used to determine all positional behaviors for the AI actors. Rather than using different EQ services for each desired behavior (IE: favoring positions near low health enemies), choosing to combine multiple EQ tests into one service to score positions based on layered criteria. The base setup is to generate a simple point grid around the Querier, in this case the AI. This EQS will have multiple custom EQTs, having their own EQContexts, both made in C++, to give more flexibility to create custom classes. Contexts are basically in relation to whom they could check our tests with.
+The Environmental Query Service (EQS) is used to determine all positional behaviors for the AI actors. Rather than using different EQ services for each desired behavior (for example, favoring positions near low health enemies), choosing to combine multiple EQ tests into one service to score positions based on layered criteria. The base setup is to generate a simple point grid around the Querier, in this case the AI. This EQS will have multiple custom EQTs, having their own EQContexts, both made in C++, to give more flexibility to create custom classes. Contexts are basically in relation to whom they could check our tests with.
 
 <div class="paired-images">
   <div class="img-wrap"><img src="/assets/img/SupportalCombat/EQS.png" alt="Supportal Combat EQS screenshot" /></div>
