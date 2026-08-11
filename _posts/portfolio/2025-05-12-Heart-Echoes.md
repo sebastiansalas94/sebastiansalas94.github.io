@@ -57,7 +57,7 @@ The way the tiles behave is that the bridge will grow meanwhile there are adjace
     </div> 
 </div>
 
-**My Responsabilities:**
+**My Responsibilities:**
 * Design and iterate the concept of what it means to build a relantionship and how does that aligns with bridges (endogenous fantasy).
 * Design and develop the arquitecture of the turns system, actions, reactions and sequence through the game.
 * Write the story and character development through the conversations.

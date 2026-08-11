@@ -42,7 +42,7 @@ We encourage our players to reflect on elements such as what makes us human whil
 **Development Time:** 5 Week\
 **My Role:** Game Designer, Programmer, Writer, 2D Artist
 
-**My Responsabilities:**
+**My Responsibilities:**
 * Design and develop the Emoji System to communicate and interact with the customer to profile them.
 * Develop structure of days and sequence through the game.
 * Design the conditions of different endings throught the sequence of the game.

@@ -31,7 +31,7 @@ This project was made for the class *Game Design and Analysis* using the MDA Fra
 **Development Time:** 2 Week\
 **My Role:** Lead Programmer
 
-**My Responsabilities:**
+**My Responsibilities:**
 * Applied the MDA Framework to convey an experience to the player.
 * Designed and Implemented the User Interface (UI) for the interaction and dialogues.
 * Sync all Audio Cues to create an immersirve and narrative experience.

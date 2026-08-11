@@ -41,7 +41,7 @@ Both player and AI abilities were built using Unreal’s Gameplay Ability System
 **Development Time:** 1 Month\
 **My Role:** Game Programmer, AI Engineer
 
-**My Responsabilities:**
+**My Responsibilities:**
 * Design the gameplay abilities for the player and the behavior of the enemies.
 * Architected a Gameplay Ability System (GAS) framework in C++ to support modular player abilities, being able to add new actions without touching core combat code.
 * Developed enemy AI using Behavior Trees and Environment Query System (EQS) to drive dynamic positioning.

@@ -43,7 +43,7 @@ Since this a Single-Player game, we implemented a Deck System for the player to 
 **Development Time:** 3 Week\
 **My Role:** Game Designer, Lead Programmer
 
-**My Responsabilities:**
+**My Responsibilities:**
 * Applied the MDA Framework to convey an experience to the player.
 * Designed the dynamics, mechanics and rules for the board game.
 * Implemented the Deck System to center the game around a single-player experience.

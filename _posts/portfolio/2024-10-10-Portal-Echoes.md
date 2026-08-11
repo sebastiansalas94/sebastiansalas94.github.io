@@ -38,7 +38,7 @@ In this project there are various puzzles that the player has to solve to traver
 Replicating this mechanic allowed me to understand the code structure, the design patterns and the architecture of the original implementation, giving me insights on how to solve a problem that other experienced developers had to deal with from a very successful game.
 This project was made for the course *Videogame Development in Unreal Engine* .
 
-**My Responsabilities:**
+**My Responsibilities:**
 * Implemented the character movement and the Portal Gun mechanics.
 * Level Design and Puzzles.
 * Developed enemy's AI to patrol and detect the player when they enter its vision field..

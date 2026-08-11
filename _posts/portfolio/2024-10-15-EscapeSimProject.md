@@ -38,7 +38,7 @@ There was also an enemy patrolling a designated space in the map that when it de
 **Development Time:** 6 Week\
 **My Role:** Lead Programmer
 
-**My Responsabilities:**
+**My Responsibilities:**
 * Implemented the Weapon Rifle and the interaction with the environment and objects.
 * Created different kind of enemies to get XP and obstacles for the player where the desired effect varies.
 * Developed mechanic of slowing time as Ultimate Ability.
