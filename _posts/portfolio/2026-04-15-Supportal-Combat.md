@@ -4,8 +4,8 @@ title: "Supportal Combat"
 subtitle: "Win the fight... supporting!"
 tech: Unreal Engine 5, C++, Enemy AI 
 preview-video: /assets/video/SupportalCombat/SupportalCombat_Gameplay.mp4
-cover-img: /assets/img/SupportalCombat/SC_Stun.png
-share-img: /assets/img/SupportalCombat/SC_Stun.png
+cover-img: /assets/img/SupportalCombat/Witch_BT.png
+share-img: /assets/img/SupportalCombat/Witch_BT.png
 gh-repo: daattali/beautiful-jekyll
 ---
 
@@ -20,7 +20,7 @@ Supportal Combat positions the player in the supportive role of a traditional RP
 
 **Gameplay:**
 
-Rather than being the main damage dealer, you play a support character wielding a healing circle to mend your allies, a stun to lock down enemies, and a smokescreen to disperse a group of enemies, all to help you gain the upper hand in battle. Meanwhile, you'll need to position your melee-focused ally carefully with your abilities to keep him alive, so they can land the damage needed to win..
+Rather than being the main damage dealer, you play a support character wielding a healing circle to mend your allies, a stun to lock down enemies, and a smokescreen to disperse a group of enemies, all to help you gain the upper hand in battle. Meanwhile, you'll need to position your melee-focused ally carefully with your abilities to keep him alive, so they can land the damage needed to win.
 
 <video autoplay loop muted playsinline style="width: 800px;">
   <source src="/assets/video/SupportalCombat/SupportalCombat_Gameplay.mp4">
@@ -34,7 +34,6 @@ Both player and AI abilities were built using Unreal’s Gameplay Ability System
   <div class="img-wrap"><img src="/assets/img/SupportalCombat/SC_1.png" alt="Supportal Combat Heal screenshot" /></div>
   <div class="img-wrap"><img src="/assets/img/SupportalCombat/SC_Stun.png" alt="Supportal Combat Stun screenshot" /></div>
 </div>
-
 
 **Genre:** Action Game\
 **Software:** Unreal Engine, C++\
