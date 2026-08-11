@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Supportal Combat"
-subtitle: "Win the fight... supporting!"
+subtitle: "Indirectly influencing the behavior of the AI!"
 tech: Unreal Engine 5, C++, Enemy AI 
 preview-video: /assets/video/SupportalCombat/SupportalCombat_Gameplay.mp4
 cover-img: /assets/img/SupportalCombat/Witch_BT.png

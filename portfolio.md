@@ -7,18 +7,18 @@ This is a collection of my work to date, including personal projects, courses wo
   <div class="row-portfolio">
     <div class="col-4 col-6-medium col-12-small">
       <article class="box style2">
+        <a class="card-overlay" href="https://sebastiansalas94.github.io/2026-04-15-Supportal-Combat" aria-label="Open Supportal Combat"></a>
+        <a href="https://sebastiansalas94.github.io/2026-04-15-Supportal-Combat" class="image featured"><img src="/assets/img/SupportalCombat/SC_Stun.png" alt=""></a>
+        <h3><a href="https://sebastiansalas94.github.io/2026-04-15-Supportal-Combat">Supportal Combat</a></h3>
+        <p>Indirectly influencing the behavior of the AI!</p>
+      </article>
+    </div>
+        <div class="col-4 col-6-medium col-12-small">
+      <article class="box style2">
         <a class="card-overlay" href="https://sebastiansalas94.github.io/2026-04-01-Debt-Rush" aria-label="Open Debt Rush"></a>
         <a href="https://sebastiansalas94.github.io/2026-04-01-Debt-Rush" class="image featured"><img src="/assets/img/DebtRush/DR_Cover.png" alt=""></a>
         <h3><a href="https://sebastiansalas94.github.io/2026-04-01-Debt-Rush">Debt Rush</a></h3>
         <p>The chaotic 2 co-op action game with negotiations!</p>
-      </article>
-    </div>
-    <div class="col-4 col-6-medium col-12-small">
-      <article class="box style2">
-        <a class="card-overlay" href="https://sebastiansalas94.github.io/2026-04-15-Supportal-Combat" aria-label="Open Supportal Combat"></a>
-        <a href="https://sebastiansalas94.github.io/2026-04-15-Supportal-Combat" class="image featured"><img src="/assets/img/SupportalCombat/SC_Stun.png" alt=""></a>
-        <h3><a href="https://sebastiansalas94.github.io/2026-04-15-Supportal-Combat">Supportal Combat</a></h3>
-        <p>Win the fight... supporting!</p>
       </article>
     </div>
     <div class="col-4 col-6-medium col-12-small">
