@@ -3,7 +3,7 @@ layout: post
 title: "Counter Clockwise VR"
 subtitle: ""
 tech: Unity 3D, Virtual Reality (VR) 
-preview-video: /assets/video/CCVR/CCVR_MiniTrailer.mp4
+preview-video: /assets/video/CCVR/CCVR_MiniTrailer_720p.mp4
 cover-img: /assets/img/SupportalCombat/Witch_BT.png
 share-img: /assets/img/SupportalCombat/Witch_BT.png
 gh-repo: daattali/beautiful-jekyll
@@ -32,7 +32,7 @@ A task and progression system tracking participants' tasks within the environmen
 The project is built in Unity with the XR Interaction Toolkit and OpenXR, targeting standalone VR headsets such as the Meta Quest 3.
 
 <video autoplay loop muted playsinline style="width: 800px;">
-  <source src="/assets/video/CCVR/Radio_Plus_Coffe_720p.mp4">
+  <source src="/assets/video/CCVR/Radio_Plus_Coffee_720p.mp4">
 </video>
 
 **Genre:** Simulation Game, Research Study\
