@@ -14,9 +14,9 @@ gh-repo: daattali/beautiful-jekyll
   <a class="project-link-button github" href="https://github.com/sebastiansalas94/LuckyBingo" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
 </div>
 
-Lucky Bingo is a short psychological-horror point-and-click game made for the 2026 Unity Game Jam, with the theme "Lucky Number".
+Lucky Bingo is a short psychological-horror point-and-click game made for the [2026 Unity Game Jam](https://itch.io/jam/official-unity-game-jam-2026), with the theme "Lucky Number".
 
-Spin the numbers Stephen. Unimaginable riches await you.
+*Spin the numbers Stephen. Unimaginable riches await you.*
 
 Steve is down on his luck. His rent is due the next day, and he doesn't have 2 cents to rub together. But as he's walking home, he finds a lottery ticket sticking out of a gutter. He thinks nothing of it until the first number drawn on the lotto that night matches the one on his ticket.
 
@@ -32,7 +32,7 @@ Guide Steve's decisions through this short and fun psychological-horror game and
 
 **Collaborative Team:**
 
-The music and ambience were made by @JaniNdl in FMOD, and the art by @ElysiaLi. In 7 days, we designed, developed, and finished the game we had in mind.
+The music and ambience were made by [Jani Nendl](https://janinendlmusic.com/) using FMOD, and the art by [Elysia Li](https://elysiali-portfolio.framer.website/). In 7 days, we designed, developed, and finished the game we had in mind.
 
 <div class="paired-images">
   <div class="img-wrap"><img src="/assets/img/LuckyBingo/LuckyBingo_3.png" alt="Lucky Bingo screenshot" /></div>
