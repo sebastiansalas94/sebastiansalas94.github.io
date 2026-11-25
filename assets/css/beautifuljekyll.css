@@ -548,6 +548,10 @@ footer .footer-custom-content {
   height: 14rem;
   width: 12rem;
 }
+video {
+  display: block;
+  margin: 0 auto;
+}
 .post-preview .post-image img,
 .post-preview .post-image video {
   max-height: 100%;
