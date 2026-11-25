@@ -43,6 +43,14 @@ The music and ambience were made by @JaniNdl in FMOD, and the art by @ElysiaLi. 
   <div class="img-wrap"><img src="/assets/img/LuckyBingo/LuckyBingo_6.png" alt="Lucky Bingo screenshot" /></div>
 </div>
 
+**Ranking and Comments:**
+
+**Genre:** Psychological-Horror Point-and-Click Game\
+**Software:** Unity, C#\
+**Project Type:** Group Project\
+**Development Time:** 7 Days\
+**My Role:** Game Programmer
+
 **Process:**
 
 The Game Jam was in seven days + a buffer of 2 days. We first started doing the brainstorming of the game with the theme. Then we begin prototyping while using MDA and a shared Design Document. We begin prototyping with the initial idea of a short horror story relating to luck and it trap us.
@@ -77,14 +85,6 @@ Initially we had this idea to mingle the results with a minigame but due to runn
 <video autoplay loop muted playsinline style="width: 800px;">
   <source src="/assets/video/LuckyBingo/LuckyBingo_WinBingoEnding.mp4">
 </video>
-
-**Genre:** Psychological-Horror Point-and-Click Game\
-**Software:** Unity, C#\
-**Project Type:** Group Project\
-**Development Time:** 7 Days\
-**My Role:** Game Programmer
-
-**Comments:**
 
 **Testimonial**:
 
